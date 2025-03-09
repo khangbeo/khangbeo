@@ -10,4 +10,4 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anthony-duong1/)
 - 💼 Check out my [Projects](https://anthony-portfolio-zeta.vercel.app/)
 
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangbeo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangbeo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
